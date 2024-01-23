@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a project for school
-- 🌱 I’m currently learning web-dev
-- 👯 I’m looking to collaborate on a basic web-dev project to improve
-- 🤔 I’m looking for help with X86-64 assembley
+- 🔭 I’m currently working on a couple of projects for UNI and my job
+- 🌱 I’m currently learning about LLMs
+- 👯 I’m looking to collaborate some projects related to ML in general
+- 🤔 I’m looking for help with finding my way through the AI landscape
 - 💬 Ask me about anything
 - 📫 How to reach me: via [Linkedin](https://www.linkedin.com/in/roham-k-975728211)
 - 😄 Pronouns: He/Him
