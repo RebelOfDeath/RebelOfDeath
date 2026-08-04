@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Roham, and I am currently a research assistant and scientific developer with the AI-enabled Software Engineering Research Group (AISE). My work focuses on enhancing the developer experience within integrated development environments (IDEs) by improving the integration of AI-driven techniques and tailoring them to better suit the needs of developers.</p>
+<p align="left">My name is Roham, and I am a Researcher at <a href="https://www.jetbrains.com/research/">JetBrains Research</a>'s <a href="https://lp.jetbrains.com/research/hax/">Human-AI eXpereiences (HAX) team</a>; I'm also a Research Assistant (RA) with the <a href="https://malihehizadi.github.io/aise/">AI-enabled Software Engineering (AISE)</a> lab in the <a href="https://se.ewi.tudelft.nl/">Software Engineering Research Group (SERG)</a> at <a href="https://www.tudelft.nl/">TU Delft</a>. My work sits at the intersection of three fields, namely, Machine Learning, Software Engineering, and Human-Computer Interaction; I focus on improving the developer experience in IDEs by designing and evaluating AI-driven tools tailored to how developers actually work.</p>
 
 ###
 
@@ -40,6 +40,9 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/rohamkoohestani/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://rohamkoohestani.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Website&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website"  />
   </a>
   <a href="mailto:rkoohestani@tudelft.nl" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
